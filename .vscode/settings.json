@@ -1,3 +1,6 @@
 {
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",
+    "powermode.presets": "flames",
+    "powermode.enabled": true,
+    "editor.fontSize": 16
 }
